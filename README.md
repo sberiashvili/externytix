@@ -14,7 +14,7 @@ For each identified player, the aimbot retrieves the player's head position and 
 If a best angle is found, the aimbot calculates the smoothed angle by dividing the best angle by 5 and adds it to the current view angles. It then writes the new view angles to memory, allowing for the player to aim at the target automatically.
 
 #### Usage
-To use this aimbot, build the code using Visual Studio and run the resulting executable while playing Counter-Strike: Global Offensive. Press and hold the left mouse button to activate the aimbot.
+To use this aimbot, open up "externytix.vxcproj" file. Then build the code using Visual Studio in Release x86 and run the resulting executable while playing Counter-Strike: Global Offensive. The aimbot will automatically aim while spraying, it's better to have accurate legit aim to make aimbot work better. Note that this aim tool doesn't fully aim for you, it's sort of an aim assist.
 
 Note that the use of this aimbot can result in a ban from the game. Use it at your own risk.
 
